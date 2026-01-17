@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Krishna</h1>
-<h3 align="center">Passionate Geek & Fellow Human | Security Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Chaitanya Krishna Anantharapu</h1>
+<h3 align="center">Senior Cyber Security Specialist | Penetration Testing Expert | Security Consultant</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaitanyakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyakrishna" />
@@ -9,10 +9,15 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm passionate about **cybersecurity, penetration testing, and secure coding practices**
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about **security, web technologies, and open source**
-- ⚡ Fun fact: I believe in continuous learning and sharing knowledge with the community
+I'm a seasoned cybersecurity professional with extensive experience in information security, cyber threat intelligence, and security management. Currently serving as a **Senior Cyber Security Specialist** at Prime Healthcare Services.
+
+- 🔐 **Expertise:** Vulnerability Assessment, Penetration Testing, Ethical Hacking, Security Consulting
+- 💼 **Experience:** Worked with organizations including Prime Healthcare, Zemoso Technologies, Agility, Deloitte India, and EiQ Networks
+- 🎓 **Education:** Bachelor's Degree in Computer Science and Engineering from Jawaharlal Nehru Technological University
+- 🏆 **Certifications:** Ethical Hacking, Kali Linux, and other security certifications
+- 📍 **Location:** Hyderabad, India
+- 👨‍🏫 **Teaching:** Passionate about cybersecurity education through online courses, workshops, and mentoring
+- 🌱 **Always:** Learning and exploring emerging security threats and defense mechanisms
 
 ---
 
@@ -36,7 +41,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
 </p>
+
+**Security Tools:** Kali Linux • Metasploit • Burp Suite • Nmap • Wireshark • OWASP ZAP • Nessus
 
 ---
 

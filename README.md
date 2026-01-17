@@ -81,9 +81,9 @@ Teaching forces clarity — and security needs more of that.
 
 ## Get in touch
 
-- GitHub: https://github.com/chaitanyakrishna  
-- LinkedIn: https://in.linkedin.com/in/chaitanyakrishnaa  
-- Email: chaitanyapentest@gmail.com
-- Website : https://Chaitanyakrishna.com
+- [![GitHub](https://img.shields.io/badge/GitHub-chaitanyakrishna-181717?style=flat&logo=github)](https://github.com/chaitanyakrishna)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-chaitanyakrishnaa-0077B5?style=flat&logo=linkedin)](https://in.linkedin.com/in/chaitanyakrishnaa)
+- [![Email](https://img.shields.io/badge/Email-chaitanyapentest@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chaitanyapentest@gmail.com)
+- [![Website](https://img.shields.io/badge/Website-Chaitanyakrishna.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://Chaitanyakrishna.com)
 
 Thanks for stopping by 🙂

@@ -1,9 +1,87 @@
-[![Gmail Badge](https://img.shields.io/badge/-chaitanyapentest@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaitanyapentest@gmail.com)](mailto:chaitanyapentest@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-chaitanyakrishna-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chaitanyakrishnaa/)](https://www.linkedin.com/in/chaitanyakrishnaa/) [![Github Badge](https://img.shields.io/badge/-chaitanyakrishna-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chaitanyakrishna/)](https://www.github.com/chaitanyakrishna/) [![Twitter Badge](https://img.shields.io/twitter/follow/anantharapu?label=anantharapu)](https://www.twitter.com/anantharapu/) 
-<p align='center'><b>Passionate Geek & Fellow Human</b></p>
+# Hi, I’m Chaitanya 👋
 
-## Github Stats
+I work in cybersecurity, focusing on **incident response, threat intelligence, and security automation**.
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=chaitanyakrishna alt=chaitanyakrishna /> </p>
+I currently work at **Microsoft**, where I’m part of a global team handling **large-scale security incidents and containment across first-party infrastructure**. Most of my day-to-day work is about understanding attacker behavior, reducing response time, and building automation that helps teams move faster during incidents.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Chaitanyakrishna&show_icons=true&include_all_commits=true)
+
+
+## What I work on
+
+- Investigating and responding to security incidents at enterprise scale  
+- Threat actor containment and remediation  
+- Turning threat intelligence into detections and response actions  
+- Building automation and SOAR workflows to reduce manual response  
+- Improving SOC processes through use cases, playbooks, and tooling  
+
+I enjoy work that blends **security engineering and operations**, especially where reliability and clarity matter more than tooling.
+
+
+
+## Open-source projects
+
+I build tools when something feels repetitive, slow, or error-prone.
+
+### 🔹 IOC Scraper  
+Automates extraction and normalization of indicators of compromise from blogs, PDFs, CSVs, and reports.
+
+- Supports IPs, domains, URLs, hashes, YARA rules, and MITRE ATT&CK IDs  
+- Defanging and basic whitelisting included  
+- Designed to fit into real threat-intelligence workflows
+
+➡️ https://github.com/chaitanyakrishna/iocscraper
+
+
+
+### 🔹 Threat Feed Automator  
+Collects domains and IP addresses from multiple threat feeds for enrichment and analysis.
+
+➡️ https://github.com/chaitanyakrishna/ThreatFeedAutomater
+
+
+
+### 🔹 Subdomain Enumerator  
+Lightweight script for enumerating subdomains using the SecurityTrails API.
+
+➡️ https://github.com/chaitanyakrishna/subdomain-enum
+
+
+
+### 🔹 Ginger-Chai  
+Helps identify static and dynamic pages in web applications to assist with assessment scoping.
+
+➡️ https://github.com/chaitanyakrishna/Ginger-Chai
+
+
+
+## Technical areas I spend time in
+
+- Incident response & threat containment  
+- Cyber threat intelligence (strategic, operational, tactical)  
+- SOAR & security automation (Python, PowerShell)  
+- Detection engineering & MITRE ATT&CK mapping  
+- Cloud security (Azure, AWS, GCP)  
+- SIEM, EDR, and telemetry-driven investigations  
+
+I care more about **how systems fail under pressure** than perfect architectures.
+
+
+
+## Teaching & sharing
+
+- Created a beginner-friendly **Penetration Testing with Metasploit** course  
+- Delivered talks and internal sessions on offensive and defensive security topics  
+- Built hands-on virtual labs for realistic security training  
+
+Teaching forces clarity — and security needs more of that.
+
+
+
+## Get in touch
+
+- GitHub: https://github.com/chaitanyakrishna  
+- LinkedIn: https://in.linkedin.com/in/chaitanyakrishnaa  
+- Email: chaitanyapentest@gmail.com
+- Website : https://Chaitanyakrishna.com
+
+Thanks for stopping by 🙂

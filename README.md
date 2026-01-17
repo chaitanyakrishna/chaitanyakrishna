@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=chaitanyakrishna)
+
 # Hi, I’m Chaitanya 👋
 
 I work in cybersecurity, focusing on **incident response, threat intelligence, and security automation**.
